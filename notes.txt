@@ -1,0 +1,3 @@
+My name is Volodya,
+(Sequel of first string):
+ I am a student.
